@@ -206,11 +206,11 @@ footer a {
     }
     header div, nav{
         display: inline-block;
+        vertical-align: middle;
     }
-    header nav{
-        margin-left: 400px;
-
-    }
+  header nav{
+    margin-left: 750px;
+  }
     header ul li{
         display: inline-block;
     }

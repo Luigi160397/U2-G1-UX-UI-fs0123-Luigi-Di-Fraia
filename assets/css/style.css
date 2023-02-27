@@ -179,6 +179,7 @@ footer a {
     color: fuchsia;
 }
 
+
 @media screen and (min-width:769px){
     body{ 
         font-size: 1.5rem;

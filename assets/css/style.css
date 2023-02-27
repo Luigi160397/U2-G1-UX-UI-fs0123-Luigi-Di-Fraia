@@ -209,8 +209,10 @@ footer a {
         vertical-align: middle;
     }
   header nav{
-    margin-left: 750px;
+    float: right;
+    display: inline-block;
   }
+  
     header ul li{
         display: inline-block;
     }

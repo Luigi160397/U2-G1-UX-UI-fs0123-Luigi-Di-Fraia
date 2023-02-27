@@ -241,9 +241,13 @@ footer a {
         display: inline-block;
         vertical-align: middle;
     }
+    aside{
+        margin-inline: auto;
+    }
+    
     aside div{ 
         display: inline-block;
-        width: auto;
+        width: 370px;
     }
 
 }
